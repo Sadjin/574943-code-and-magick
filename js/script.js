@@ -20,6 +20,6 @@ var getWizardX = function (width) {
   return (width * .5) - (wizardWidth / 2);
 }
 
-var getWizardY = function (height) {
+var getWizardY = function (height) {  
   return height * 0.333333;
 }
